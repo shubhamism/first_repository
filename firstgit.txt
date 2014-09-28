@@ -1,1 +1,2 @@
 hi i am here to create first git repository
+now i am adding second line
